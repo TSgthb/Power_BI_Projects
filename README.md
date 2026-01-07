@@ -30,6 +30,7 @@ Following techniques and components were used for preparing dashboards:
 ## Repository Structure
 
 - **Power BI Projects**
-  - [*Sales Analytics Dashboard*]()
-  - [*ATM Transactions Insights Dashboard*]()
+  - [*Sales Analytics Dashboard*](https://github.com/TSgthb/PowerBI_Projects/tree/main/Sales%20Analytics%20Dashboard)
+  - [*ATM Transactions Insights Dashboard*](https://github.com/TSgthb/PowerBI_Projects/tree/main/ATM%20Transactions%20Insights%20Dashboard)
+
 
